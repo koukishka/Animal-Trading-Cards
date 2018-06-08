@@ -1,0 +1,50 @@
+#mybody
+{
+    border: 1px solid lavender;
+    box-shadow: 2px 2px lavender;
+    border-radius: 5px;
+    box-sizing: border-box;    
+    width: 350px;
+    
+   
+}
+
+#image
+{
+    width:300px;
+    padding: 12px;
+
+
+}
+.card
+{
+    border-radius: 5px;
+    box-sizing: border-box;    
+    width: 300px;
+   
+    background-color:#4f557a;   
+    border: 1px solid lavender;
+    padding: 5px 5px 5px 5px;
+    margin: 10px 10px 10px 10px;
+
+
+}
+.pa
+{
+    color:  #ce89a3;
+    margin: 10px 10px 10px 10px;
+    font-family:  Tahoma, Helvetica, Arial, Sans-Serif;
+    
+       
+}
+.italic
+{
+    color:#bf808c;
+    margin: 10px 10px 10px 10px;
+    
+    font-style: italic;
+}
+.bold
+{
+    font-weight: bold;
+}
